@@ -1,0 +1,7 @@
+[package]
+name = "solution"
+version = "0.0.1"
+
+[[bin]]
+name = "solution"
+path = "main.rs"
