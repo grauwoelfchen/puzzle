@@ -1,0 +1,17 @@
+[package]
+autobins = false
+name = "puzzle"
+version = "0.0.1"
+edition = "2018"
+
+[[bin]]
+name = "solution"
+path = "src/main.rs"
+
+# [[bench]]
+# name = "benchmark"
+# path = "bench/benchmark.rs"
+# harness = false
+
+# [dev-dependencies]
+# criterion = { version = "0.4", features = ["html_reports"] }
