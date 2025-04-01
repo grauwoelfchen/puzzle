@@ -1,3 +1,10 @@
+> [!NOTE]
+>
+> This repository has been moved. Please check the new locations below.
+>
+> * [~grauwoelfchen/puzzle](https://git.sr.ht/~grauwoelfchen/puzzle) on Sourcehut
+> * [grauwoelfchen/puzzle](https://codeberg.org/grauwoelfchen/puzzle) on Codeberg
+
 # Puzzle
 
 
